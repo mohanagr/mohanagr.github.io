@@ -1,25 +1,25 @@
 @font-face {
 		font-family: type;
-		src: url(Harting_plain.ttf);
+		src: url(../fonts/Harting_plain.ttf);
 	}
 	@font-face {
 		font-family: cstone;
-		src: url(Cornerstone.ttf);
+		src: url(../fonts/Cornerstone.ttf);
 	}
 	@font-face {
 		font-family: beyno;
-		src: url(BEYNO.ttf);
+		src: url(../fonts/BEYNO.ttf);
 	}
 	@font-face {
 		font-family: ailerons;
-		src: url(Ailerons-Typeface.otf);
+		src: url(../fonts/Ailerons-Typeface.otf);
 	}
 	@font-face {
 		font-family: infinity;
-		src: url(Infinity.ttf);
+		src: url(../fonts/Infinity.ttf);
 	}
 	body {
-		background-image: url(back5.jpg);
+		background-image: url(../images/back5.jpg);
 		background-repeat: no-repeat;
 		background-size: cover;
 	}
@@ -99,7 +99,7 @@
 	}
 	.head {
       position: relative;
-      background-image: url(back1.png);
+      background-image: url(../images/back1.png);
       font-color : white;
       margin-top: 15px;
       padding: 10px;
